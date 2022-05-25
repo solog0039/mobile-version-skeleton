@@ -1,4 +1,4 @@
-# Project Name: #Portfolio-mobile-version 
+#Portfolio-mobile-version 
 
  Description the project.
     For the first milestone in the process of creating your portfolio website, you will:
@@ -13,12 +13,9 @@
 ## Live Demo (if available): no
 
 ## Authors
-
-👤 **Author1**
-
- -[Github](https://github.com/solog0039)
- -[linkedin](www.linkedin.com/in/solomon-kidanu-62a994232)
- -[tiwtter](https://twitter.com/Solomon57320119)
+ .Github:  @ https://github.com/solog0039
+ .Tiwtter: @ https://twitter.com/Solomon57320119
+ .Linkedin:  www.linkedin.com/in/solomon-kidanu-62a994232
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
@@ -32,4 +29,4 @@ Give a ⭐️ if you like this project!
 -microverse
 
 ## 📝 License
-This project is MIT License licensed.
+This project is [MIT](./MIT.md) licensed.
