@@ -10,6 +10,11 @@
 
 .text-color {
   color: white;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
 }
 
 .header-container {
@@ -54,10 +59,34 @@
 }
 
 .heading-1 {
-  color: #ff6b00;
-  font-size: 46px;
-  width: 327px;
+  color: white;
+  font-family: 'Crete Round';
+  font-style: normal;
   font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  letter-spacing: 0.37px;
+}
+
+.heading-2 {
+  margin-left: 24px;
+  color: white;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.section-par {
+  color: white;
+  margin-left: 24px;
+  margin-top: 20px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
 }
 
 .social-media {
@@ -67,7 +96,7 @@
   list-style-type: none;
   margin-top: 10%;
   margin-left: 10%;
-  width: 60%;
+  width: 50%;
 }
 
 /* my recent wor */
