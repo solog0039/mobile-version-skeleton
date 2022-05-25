@@ -10,7 +10,7 @@
 
 .text-color {
   color: white;
-  font-family: 'Roboto' sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -60,7 +60,7 @@
 
 .heading-1 {
   color: white;
-  font-family: 'Crete Round, sans-serif';
+  font-family: 'Crete Round', sans-serif;
   font-style: normal, s;
   font-weight: 400;
   font-size: 56px;
